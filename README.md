@@ -6,5 +6,9 @@ Demo project to identify close meteorites landing sites with the help of NASA- P
 
 This code required Python3 and requests package
 
+first install pipenv
+```
+pipenv install
 
-`python3 find_meteors.py`
+pipenv run python "find_meteors.py"
+```
